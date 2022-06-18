@@ -1,0 +1,4 @@
+git init
+
+git config --global user.email "bhanumnat5@gmail.commit"
+git config --global user.name "bhanumnat5"
